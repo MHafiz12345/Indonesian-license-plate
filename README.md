@@ -39,14 +39,6 @@ MobileNetV2 (pre-trained, feature extraction)
 
 This architecture balances performance and efficiency, making it suitable for deployment in real-world applications.
 
-## 📊 Performance
-
-The model achieves:
-- **Training Accuracy**: ~95%
-- **Validation Accuracy**: ~93%
-- **Test Accuracy**: ~92%
-
-![Training Performance](https://github.com/yourusername/indonesian-license-plate-classifier/raw/main/examples/training_performance.jpg)
 
 ## 🛠️ Dataset Preparation
 
